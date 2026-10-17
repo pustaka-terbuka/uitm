@@ -1,0 +1,19 @@
+{
+  "schema_version": "1.0",
+  "source_code": "uitm",
+  "source_name": "Perpustakaan Tun Abdul Razak (Universiti Teknologi MARA)",
+  "source_base_url": "https://library.uitm.edu.my/",
+  "terms_url": "https://library.uitm.edu.my/",
+  "terms_verified_on": "2026-10-17",
+  "harvester_name": "uitm-koha-harvester",
+  "harvester_version": "1.0.0",
+  "run_id": "2026-10-17T05-44-57Z-chunk-001",
+  "mode": "full",
+  "started_at": "2026-10-17T05:46:24.370Z",
+  "finished_at": "2026-10-17T05:46:24.370Z",
+  "record_count": 0,
+  "error_count": 0,
+  "status": "partial",
+  "user_agent": "PustakaTerbuka-Harvester/1.0 (+https://github.com/pustaka-terbuka/uitm; contact@pustakaterbuka.org)",
+  "notes": "UiTM harvest completed. Total: 0 records."
+}
